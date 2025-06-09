@@ -1,0 +1,4 @@
+# Data directory
+data/
+# Annoying Mac file specifier
+.DS_Store
