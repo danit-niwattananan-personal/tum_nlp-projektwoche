@@ -52,3 +52,145 @@ Isolation. Trust as a currency. The danger of institutional silence. When is it 
 **Tagline:**
 *“In the loneliest place on earth, someone is watching. And someone is lying.”*
 
+# Trailer Script
+
+Absolutely — here is a **fully detailed 55-second teaser trailer script** for ***The Light Beneath***, now enriched with precise **visuals, sound design, character behavior, wardrobe, lighting, camera work,** and **narration voice tone.** Every second is crafted to **build tension**, **reveal character psychology**, and **generate ambiguity** about what is real.
+
+---
+
+🎬 **TEASER TRAILER SCRIPT — *THE LIGHT BENEATH***
+*Length: 55 seconds*
+*Genre: Psychological Thriller*
+*With Voiceover Narration (external, calm and chilling)*
+*Visual Tone: Cold, desaturated, coastal decay*
+*Soundscape: Pressurized, brittle, sharp with moments of suffocating silence*
+*Key Visual Motifs: Fog, flickering light, old technology, water damage, shadows with presence*
+
+---
+
+### ⏱️ **0:00–0:10 — ESTABLISHING ISOLATION**
+
+**\[FADE IN: EXT. NORTH ATLANTIC – OVERCAST – DAY]**
+*A drone shot arcs slowly over black, churning ocean. Jagged rocks claw out of the water. In the distance, the weather-beaten lighthouse rises from the cliff, its rust-streaked exterior flaking white in the salt air.*
+**CAMERA:** Wide aerial, descending slightly, movement slow and foreboding.
+
+**SOUND DESIGN:**
+
+* Wind shears across the mic, rising in low intervals
+* A soft buoy bell chimes once, off rhythm
+* Beneath it: a barely perceptible mechanical *drone*, like something pulsing far underwater
+
+**MUSIC:**
+
+* Sub-bass rumble begins to swell — low D minor
+* Single high metallic tone pulses like distant sonar
+
+**NARRATOR (male, 50s, flat tone with slight rasp):**
+*"There were three of them at Lantern Point…"*
+*“…and none of them trusted each other.”*
+
+---
+
+### ⏱️ **0:10–0:25 — THE ARRIVAL AND UNSETTLING ROUTINE**
+
+**\[INT. LIGHTHOUSE CORRIDOR – DIM LIGHT – DAY]**
+*Mara (30, pale, sharp-featured, in a dark thermal turtleneck and rain-slick work pants) walks down a narrow metal corridor. Her boots echo against the steel floor. She pauses. A soft *clanging* echoes from the shaft below. Her breath clouds in the air. She listens. Doesn’t speak.*
+**CAMERA:** Handheld behind Mara, slightly swaying — claustrophobic.
+
+**SOUND DESIGN:**
+
+* Distant metallic banging — irregular
+* Electrical hum and the distant buzz of failing fluorescents
+
+**\[EXT. DOCK – FOGGY MORNING]**
+*Theo Calder (30s, medium build, well-groomed beard, blue waterproof jacket too clean for this place) steps off the incoming ferry. Fog whips around his silhouette. Elias (60s, gaunt, wool cap, heavy oilskin coat) stands stone-faced beside Mara. They greet him stiffly — Mara’s handshake is brief, eyes fixed. Theo smiles. It's too practiced.*
+**CAMERA:** Steadicam dolly in on Theo. His arrival is framed like an intrusion.
+
+**SOUND:**
+
+* Ferry motor idles, distant
+* Rain taps on metal surfaces
+* A faint crackle from an overhead loudspeaker: static and a partial phrase—“…secure protocol…”
+
+**NARRATOR (slightly closer, quieter now):**
+*"And then… there were four."*
+
+---
+
+### ⏱️ **0:25–0:45 — ESCALATION AND SUSPICION**
+
+**\[INT. CONTROL ROOM – NIGHT – RED LIGHT]**
+*Theo sits alone, lit only by monitors. Screens display grainy black-and-white CCTV feeds. One shows Mara asleep in her bunk. Another flickers — static, then an empty hallway, then darkness.*
+**CAMERA:** Push-in from behind, screen reflections ghosting across his face.
+
+**SOUND DESIGN:**
+
+* Electrical static
+* Soft breathing
+* A faint voice, unintelligible, layered deep in the audio mix
+
+---
+
+**\[INT. STOREROOM – LOW LIGHT – NIGHT]**
+*Mara opens a sealed container. She wears gloves. Inside: tracking beacons labeled in Cyrillic and military-grade equipment. Her expression: frozen disbelief sliding into calculation.*
+**CAMERA:** Extreme close-up on her eyes — calculating, reflecting red warning lights.
+
+**MUSIC:**
+
+* High bowed strings begin to whine — like pressure building in a hull
+* Dissonance builds, layered with breathing
+
+**DIALOGUE (quiet, flat):**
+**MARA:**
+*"This isn’t research gear."*
+
+---
+
+**\[INT. WINDOW – DUSK – SEA IN BACKGROUND]**
+*Mara stands behind glass. Binoculars raised. Her breath fogs the window. Outside, in the mist: a dark freighter, anchored and idle, just beyond the fogline. No flag. No lights.*
+**CAMERA:** Wide shot from outside. Her figure looks ghostly through the glass.
+
+**NARRATOR (just above a whisper):**
+*"Something moved beneath them… or inside them."*
+
+---
+
+### ⏱️ **0:45–0:55 — THREAT MANIFESTS**
+
+**\[INT. LIVING QUARTERS – POWER OUT – NIGHT]**
+*Emergency lights pulse red. Mara moves fast through a hallway, flashlight jerking as she turns. Behind her, a shape disappears around a corner. She stops. Listens. Nothing.*
+**CAMERA:** Low angle, handheld, tight framing — adrenaline pace.
+
+**\[EXT. CLIFF – NIGHT – FOG HEAVY]**
+*A figure — too still — stands on the edge of the rocks, facing the ocean. Unmoving. Elias watches from the lighthouse window. He doesn’t blink.*
+**SOUND:**
+
+* One soft sonar ping
+* Wind drops into total silence
+
+**DIALOGUE (barely audible whisper, terrified):**
+**MARA (V.O.):**
+*"I think… we’re not alone."*
+
+---
+
+### ⏱️ **0:55 — FINAL IMAGE / TEXT CARD**
+
+**\[THERMAL SURVEILLANCE CAMERA – STATIC PULSE]**
+\*The screen shows three human-shaped heat signatures in a room… and one fourth figure outside, on the rocks. The fourth is colder, barely registering. It doesn’t move. The image stutters—*then cuts to black.*
+
+**TEXT ON SCREEN — WHITE ON BLACK (minimal, sharp cut):**
+***THE LIGHT BENEATH***
+*COMING SOON*
+
+**SOUND:**
+
+* Sharp *metal latch*
+* Total blackout
+* Faint underwater *groan* like hull steel under pressure
+
+**MUSIC:**
+
+* One high-pitched tone breaks — then decays into static
+
+---
