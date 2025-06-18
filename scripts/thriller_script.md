@@ -194,3 +194,46 @@ Absolutely — here is a **fully detailed 55-second teaser trailer script** for 
 * One high-pitched tone breaks — then decays into static
 
 ---
+
+
+# additional information
+
+Absolutely. Below is a detailed **teaser trailer breakdown** for ***The Light Beneath*** in **markdown table format**, including:
+
+* 🎬 **Storyboarded scenes** (with key framing & tone)
+* 🎧 **Music references** (style, cues, instrumentation)
+* 🎛 **Sound design notes**
+* 🎥 **Production direction** (camera work, pacing, lighting, acting)
+
+This format is built for use by a **director, editor, and sound designer** during pre-visualization and post-production.
+
+---
+
+### 🎞️ *The Light Beneath* – 55s Teaser Trailer Production Table
+
+
+| Time  | Scene Title                 | Visual & Framing                                                                                     | Music Cue & Style                          | Sound Design                                  | Direction Notes (Lighting, Acting, Edit)                                              |
+|-------|-----------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------|
+| 0:00–0:10 | *Isolation: Lantern Point* | Wide aerial of lighthouse on cliff in fog, waves crashing below. Static framing, drone descent.      | **Ólafur Arnalds** – sparse piano & drone  | Wind, buoy bell, underwater pulse              | Overcast natural light; push ocean scale. Linger 6s on the lighthouse.                |
+| 0:10–0:16 | *Arrival of Theo*         | Theo exits ferry, fog parting. Static 2-shot of Elias & Mara waiting, slow dolly on Theo.            | **Max Richter** – minor chord progression   | Footsteps on dock, gull cry, distant radio     | Use neutral but tense blocking. Eye contact lasts slightly too long.                  |
+| 0:16–0:25 | *Unwelcome Fourth*        | Interior: Theo’s handshake with Mara, tight close-up on hands, OTS reaction shot.                    | Quiet cello enters below piano motif       | Dock echo fades into static                    | Lighting cold/blue. Actors play tension under civility. Subtle hand twitch.           |
+| 0:25–0:30 | *Surveillance Room*       | Theo lit by monitors, slow pan from over-shoulder. One feed glitches. Mara appears sleeping.         | Cello rises with dissonant drone            | Static, mouse clicks, faint whisper layer      | Use CRT monitor flicker for light source. Theo must look unreadable, not villainous.  |
+| 0:30–0:36 | *Crate Discovery*         | Mara opens storage bin. Insert: gloved hands revealing tracking beacons. Sharp close-up on her eyes. | Strings tighten, dry bow strokes            | Clank of crate latch, distant metal groan      | Red overhead lighting. Mara silent, breath audible. Cut hard to next scene.           |
+| 0:36–0:42 | *Binocular Glimpse*       | Wide shot from outside glass. Mara stares out with binoculars. Fog conceals freighter offshore.      | Echoing piano strike + reverb wash         | Room tone drops; wind muffled                  | Shoot through condensation on glass. Hold for 3s on Mara’s reflection over sea.       |
+| 0:42–0:48 | *Power Outage*            | Emergency lighting. Handheld shot of Mara running w/ flashlight. Brief glimpse of shape in shadow.   | Strings begin pulsing, tense ticking        | Flashlight click, footsteps, distant thud      | Use flickering lights, 16mm grain sim. Motion blur intentional.                      |
+| 0:48–0:53 | *The Watcher Outside*     | Elias at window. Thermal feed overlay: 3 heat signatures… then a fourth, outside.                    | Sudden silence → single sonar ping         | Underwater groan, silence breaks tension       | Cut to Elias’s still face. Thermal shot stutters. Avoid showing full figure outside.   |
+| 0:53–0:55 | *Blackout + Title*        | Full black. TITLE: *The Light Beneath* fades in white on black.                                      | Final distorted violin harmonic             | Loud metal latch snap → total silence          | Text fade should glitch slightly. No sound beyond latch. Let silence linger 2s.        |
+
+
+---
+
+### 🎼 **MUSIC STYLE REFERENCE OVERVIEW**
+
+| Composer             | Track Style Description                                     | Suggested Tracks                              |
+| -------------------- | ----------------------------------------------------------- | --------------------------------------------- |
+| Ólafur Arnalds       | Sparse piano, ambient drone, intimate string voicing        | *Near Light*, *Saman*                         |
+| Max Richter          | Melancholic orchestration, minor key, emotional build       | *On the Nature of Daylight*, *Shadow Journal* |
+| Ben Frost (optional) | Industrial tension, harsh textures, ambient horror layering | *Venter*, *Theory of Machines*                |
+
+---
+
