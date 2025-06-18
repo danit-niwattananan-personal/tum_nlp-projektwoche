@@ -196,4 +196,18 @@ The **moonlit ocean** is flat and mirror-like. Still. Then — one ripple. Anoth
 
 ---
 
+# additional Info
+
+| Scene                    | Visual                                           | Characters        | Mood                    | Music_Style                                  | Notes                                                      |
+|:-------------------------|:-------------------------------------------------|:------------------|:------------------------|:---------------------------------------------|:-----------------------------------------------------------|
+| Opening Stillness        | Lighthouse in dusk fog on cliff                  | None              | Isolation, reverence    | Max Richter - slow strings, bowed metal      | Static wide shot; build ambiance from silence              |
+| Arrival                  | Theo arriving by boat, greeted by Mara and Elias | Theo, Mara, Elias | Curiosity, restraint    | Ólafur Arnalds - piano with ambient textures | Dolly-in; allow fog and silence to speak                   |
+| Isolation & Daily Ritual | Interior lab with sonar, chalk markings          | Mara, Elias       | Quiet routine, unease   | Ben Frost - low-frequency ambient            | Slow pan; highlight contrast of tech and ritual            |
+| The Sea Watches          | Mara with binoculars on cliff                    | Mara              | Tension, observation    | Jóhann Jóhannsson - sustained harmonics      | Push-in, shallow DOF; emphasize breath fog and still water |
+| Glimpses of Disturbance  | Sonar screen, glyphs, fish spiral                | Theo, Mara, Elias | Confusion, hint of awe  | Hildur Guðnadóttir - cello textures          | Quick cuts; create sonic bridge between shots              |
+| The Myth Rising          | Underwater dream, stone effigy                   | Theo, Mara        | Dread, revelation       | Ryuichi Sakamoto - surreal minimalism        | Surreal filter; slow motion; introduce choral textures     |
+| Revelation at Sea        | Fog glowing, shape under water                   | Mara, Theo        | Awe, cosmic fear        | Sigur Rós - rising post-rock drone           | Crane up; light flickers sync with music pulse             |
+| Blackout + Breath        | Black screen, inhale                             | None (VO)         | Suspense                | Silence + breath                             | Use silence and deep inhale for impact                     |
+| Final Image & Title      | Flat ocean, rhythmic ripples                     | None              | Mystical, closing dread | Glass note, high reverb                      | Static shot; ripples must be slow and unnatural            |
+
 
