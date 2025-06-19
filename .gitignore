@@ -3,5 +3,5 @@ data/
 # Annoying Mac file specifier
 .DS_Store
 #single files from music/sfx generation
-assets/music/
-assets/sfx/
+assets/audio/music/
+assets/audio/sfx/
