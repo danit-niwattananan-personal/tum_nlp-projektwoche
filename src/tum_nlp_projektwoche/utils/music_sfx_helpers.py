@@ -87,3 +87,43 @@ def generate_sfx(prompts, genre: str, api_key: str, output_dir="assets/audio/sfx
 
         except requests.exceptions.RequestException as e:
             print(f" Error generating SFX for Scene {scene_id}: {e}")
+
+
+def generate_music(prompt: str, genre: str, api_key: str, output_dir="assets/audio/music/", duration: int = 60, steps: int = 50, cfg_scale: float = 7.0):
+    """
+    Generates background music for a trailer using Stability Audio 2.0.
+    Saves the output as a single .mp3 file named after the genre.
+    """
+    os.makedirs(output_dir, exist_ok=True)
+
+    headers = {
+        "authorization": f"Bearer {api_key}",
+        "accept": "audio/*"
+    }
+
+    data = {
+        "prompt": prompt,
+        "output_format": "mp3",
+        "duration": duration,
+        "steps": steps,
+        "cfg_scale": cfg_scale
+    }
+
+    try:
+        response = requests.post(
+            url="https://api.stability.ai/v2beta/audio/stable-audio-2/text-to-audio",
+            headers=headers,
+            files={"none": ''},  # Required even if unused
+            data=data,
+            timeout=60
+        )
+        response.raise_for_status()
+
+        audio_path = os.path.join(output_dir, f"{genre}_music.mp3")
+        with open(audio_path, "wb") as f:
+            f.write(response.content)
+
+        print(f" Music saved: {audio_path}")
+
+    except requests.exceptions.RequestException as e:
+        print(f" Error generating music: {e}")
