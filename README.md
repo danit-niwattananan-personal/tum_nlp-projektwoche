@@ -55,24 +55,21 @@ For exact details, please consult our PDF documentation.
 
 #### Fantasy
 <p align="center">
-  <video width="80%" controls>
-    <source src="assets/trailers/fantasy_trailer_final.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="assets/trailers/fantasy_trailer_final.mp4">
+    <img src="assets/shotlist/fantasy/isolation_and_daily_routine.png" width="80%" alt="Fantasy Trailer">
+  </a>
 </p>
 
-#### Romance
+#### Romance  
 <p align="center">
-  <video width="80%" controls>
-    <source src="assets/trailers/romance_trailer.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="assets/trailers/romance_trailer.mp4">
+    <img src="assets/shotlist/romance/03-1_shared_moments1.png" width="80%" alt="Romance Trailer">
+  </a>
 </p>
 
 #### Thriller (Our favourite)
 <p align="center">
-  <video width="80%" controls>
-    <source src="assets/trailers/thriller_trailer.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="assets/trailers/thriller_trailer.mp4">
+    <img src="assets/shotlist/thriller/01_establish_isolation_ver2.png" width="80%" alt="Thriller Trailer">
+  </a>
 </p>
